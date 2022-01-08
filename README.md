@@ -1,2 +1,2 @@
-# grub-dash
-Thinkful Project: Grub-Dash 
+# Grub-dash Project
+Back-end Grub-Dash Project
